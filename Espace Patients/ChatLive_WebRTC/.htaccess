@@ -1,0 +1,6 @@
+RewriteEngine On
+
+RewriteCond %{REQUEST-FILENAME} !-f
+RewriteCond %{REQUEST-FILENAME} !-d
+
+RewriteRule ^([a-zA-Z0-9]+)/?$ connect.php?username=$1

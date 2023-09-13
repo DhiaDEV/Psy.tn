@@ -1,0 +1,31 @@
+.Appel {
+    background-color: #1c87c9;
+    -webkit-border-radius: 60px;
+    border-radius: 60px;
+    border: none;
+    color: #eeeeee;
+    cursor: pointer;
+    display: inline-block;
+    font-family: sans-serif;
+    font-size: 20px;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+  }
+  @keyframes glowing {
+    0% {
+      background-color: #66CDAA;
+      box-shadow: 0 0 5px #66CDAA;
+    }
+    50% {
+      background-color: #2ba407;
+      box-shadow: 0 0 20px #2ba407;
+    }
+    100% {
+      background-color: #66CDAA;
+      box-shadow: 0 0 5px #66CDAA;
+    }
+  }
+  .Appel {
+    animation: glowing 1300ms infinite;
+  }

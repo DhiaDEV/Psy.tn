@@ -1,0 +1,129 @@
+.btt{
+    background-color: #66CDAA;
+    border: #66CDAA;
+}
+.btt:hover{
+    background-color: white;
+    color: black;
+}
+.recherche{
+    color: #66CDAA;
+}
+.rech{
+    color: black ;
+}
+.btrech{
+    background-color: #66CDAA;
+    border: #66CDAA;
+}
+.btrech:hover{
+    background-color: white;
+}
+::-webkit-scrollbar{
+    width: 12px;
+}
+::-webkit-scrollbar-track{
+    background-color: rgb(255, 255, 255);
+}
+::-webkit-scrollbar-thumb{
+    background-color: #66CDAA;
+    border-radius: 10px;
+
+}
+.h51{
+    color:#66CDAA;
+}
+.btn3{
+    color: black;
+    background-color: #66CDAA;
+    border: #66CDAA;
+}
+.btn3:hover{
+    color: white;
+    background-color: rgb(0, 0, 0);
+}
+.h55{
+    font-size: 70px;
+}
+.bibiBg{
+    background-color: #66CDAA;
+}
+.bibi{
+   
+    color: black;
+}
+
+.bibiBg:hover{
+    background-color: black;
+}
+.bibi{
+    color: white;
+}
+.tu:hover{
+  padding-left: 5px;
+}
+.sociaux{
+    background-color: #66CDAA;
+    color: black;
+}
+.sociaux:hover{
+    background-color: black;
+    color: white;
+}
+.rechBlog{
+    background-color: #66CDAA;
+    color: black;
+}
+.rechBlog:hover{
+    background-color: black;
+    color: white;
+}
+.recentpost{
+    background-color: rgb(247, 247, 237);
+}
+.recentpost:hover{
+    color: #66CDAA;
+}
+.plaintext{
+    background-color:  rgb(247, 247, 237) ;
+    color: black;
+}
+.lire{
+    background-color: #66CDAA;
+    color: black;
+}
+.lire:hover{
+    background-color: black;
+    color: white;
+}
+.commentaire{
+    width: 150%;
+}
+.btnCmntr{
+    background-color: #66CDAA;
+    color: black;
+}
+.btnCmntr:hover{
+    background-color: black;
+    color: white;
+}
+.contact{
+    color: #66CDAA;
+}
+.bgform{
+    background-color: rgb(247, 247, 237) ;
+}
+.parametre{
+    justify-content: space-between;
+}
+.parametre:hover{
+    background-color: #66CDAA;
+    color: black;
+
+}
+.imageProfile{
+    border-radius: 50px;
+}
+.bgC{
+    background-color: #919292;
+}

@@ -1,0 +1,106 @@
+/** Page Psy **/
+.loca{
+    margin-top: 7px ;
+    font-size: 15px;
+    color: #66CDAA;
+}
+.loca .locaLien{
+    color: #0a5fdf;
+    padding-left: 4px
+;
+}
+.prendre{
+    background-color: #66CDAA;
+    color: black;
+}
+.prendre:hover{
+    background-color: black;
+    color: white;
+}
+.info{
+    width: 40%;
+    height: 40vh;
+    margin-top: 20px;
+    margin-left: 80px;
+    background-color: #E9F1F7;
+    border-radius: 10px;
+
+}
+.info h1{
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.afficherNum{
+    background-color: #66CDAA;
+    color: black;
+    
+}
+.contact-info {
+  display: flex;
+  align-items: center;
+  margin-left: 30px;
+  margin-top: 30px;
+  color: black;
+}
+
+.contact-info i {
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.contact-info a:hover {
+  background-color: black;
+  color: #fff;
+}
+.numbtn{
+    border: #fff;
+  border-radius: 10px;
+  font-size: 20px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.numbtnn{
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  margin-left: 180px;
+  margin-top: 10px;
+  color: black; 
+}
+.numbtnn i{
+    font-size: 20px;
+  margin-right: 10px;
+
+}
+.localisation{
+    display: flex;
+  align-items: center;
+  margin-left: 30px;
+  margin-top: 30px;
+  color: black;
+}
+.localisation i{
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.presentation{
+    margin: auto;
+    width: 90%;
+    padding: 10px;
+    margin-top: 20px;
+      }
+
+.presentation h5 {
+    padding-top: 20px;
+    padding-left: 60px;
+}
+.presentation button{
+    text-transform: uppercase;
+    margin-left: 80px;
+    font-size: 11px;
+
+}
+.description{
+    color: black;
+    padding-left: 90px;}
